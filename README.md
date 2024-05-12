@@ -11,7 +11,9 @@ __Date:__ 12/05/2024
 The Simple Keylogger Development project aimed to create a basic keylogger program that records and logs keystrokes. This report provides an overview of the project, including its objectives, implementation process, and outcomes.
 
 # Project Overview:
-The keylogger project focused on developing a program capable of capturing keystrokes in real-time and saving them to a file for analysis. The primary objectives were:
+The keylogger project focused on developing a program capable of capturing keystrokes in real-time and saving them to a file for analysis. 
+
+The primary objectives were:
 
 Develop functionality to capture keystrokes using Python.
 
