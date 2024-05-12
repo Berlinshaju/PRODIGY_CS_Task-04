@@ -55,8 +55,8 @@ with Listener(on_press=on_press) as listener:
     
 # Description:
 
-The code utilizes the pynput library to capture keyboard input.
-The on_press function writes captured keystrokes to a file named keylog.txt.
+The code utilizes the __pynput__ library to capture keyboard input.
+The __on_press__ function writes captured keystrokes to a file named __keylog.txt__.
 A listener instance continuously monitors keyboard events.
 
 __Ethical Considerations:__
