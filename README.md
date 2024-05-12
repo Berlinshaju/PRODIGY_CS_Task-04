@@ -14,9 +14,12 @@ The Simple Keylogger Development project aimed to create a basic keylogger progr
 The keylogger project focused on developing a program capable of capturing keystrokes in real-time and saving them to a file for analysis. The primary objectives were:
 
 Develop functionality to capture keystrokes using Python.
+
 Implement a mechanism to store the captured keystrokes in a file.
+
 Ensure ethical considerations and permissions are addressed for keylogger usage.
-Implementation Process:
+
+# Implementation Process:
 
 # 1. Research and Planning:
 
@@ -56,7 +59,9 @@ with Listener(on_press=on_press) as listener:
 # Description:
 
 The code utilizes the __pynput__ library to capture keyboard input.
+
 The __on_press__ function writes captured keystrokes to a file named __keylog.txt__.
+
 A listener instance continuously monitors keyboard events.
 
 __Ethical Considerations:__
